@@ -1,0 +1,638 @@
+1 	17-Beta Estradiol - E2 	1 ml Serum
+2 	17-Hydroxypregnenolone 	30 ml of 24 Hrs Urine
+3 	17-Hydroxypregnenolone 	2 ml Serum
+4 	17-Hydroxyprogesterone 	1 ml Serum
+5	 5-Hydroxyindole Acetic Acid (5-HIAA) 	30 ml of 24 Hrs Urine
+6 	5-Nucleotidase 	1 ml Serum
+7	 Acetaminophen (Paracetamol) 	1 ml Serum
+8 	Acetylcholine Receptor Abs, Qualitative 	1 ml Serum
+9	 Acetylcholine Receptor Abs, Quantitative 	1 ml Serum
+10 	Activated Partial Thromboplastin Time(APTT) 	2ml sodium citrate
+11 	Activated Protein C Resistance (Factor V Leiden),Functiona 	l2 ml Citrate Plasma
+12	 Activated Protein C Resistance (Factor V Leiden),PCR 	3ml EDTA Whole Blood
+13 	Acylcarnitine 	30 ml of 24 Hrs Urine
+14	 Acylcarnitine 	1 ml Serum
+15	 Adenovirus & Rotavirus 	Stool
+16	 Adenovirus Abs, IgG 	1 ml Serum
+17	 Adenovirus Abs, IgM 	1 ml Serum
+18	 ADH (Antidiuretic Hormone, Vasopressin) 	2 ml EDTA Plasma + 2 ml Serum
+19	 Adrenal Abs 	1 ml Serum
+20	 Adrenocorticotropic Hormone (ACTH) 	2 ml EDTA Plasma
+21	 AFB Smear 	Fluid, Sputum
+22	 Alanine Aminotransferase (ALT/GPT) 	1 ml Serum
+23	 Albumin 	1 ml Serum
+24	 Aldolase 	1 ml Serum
+25	 Aldosterone 	2 ml Serum
+26	 Aldosterone 	30 ml of 24 Hrs Urine
+27	 Alkaline Phosphatase Iso-enzymes 	1 ml Serum
+28	 Alkaline Phosphatase(ALP) 	1ml Serum
+29	 Allergen Specific IgE Screen Food Panel (20Allergens) 	1 ml Serum
+30	 Allergen Specific IgE Screen Inhalants Panel (20Allergens) 	1 ml Serum
+31	 Allergen Specific IgE Screen Pediatric Panel (20Allergens) 	1 ml Serum
+32	 Alpha Fetoprotein (AFP) 	1 ml Serum
+33	 Alpha Fetoprotein (AFP) (Tumour Marker) 	1 ml Serum
+34	 Alpha Thalassemia Trait 	1 ml EDTA Whole Blood
+35	 Alpha Tumor Necrosis Factor (Alpha TNF) 	2 ml Serum
+36	 Alpha-1-Antitrypsin (A1A) 	1 ml Serum
+37	 Alpha-2- Antiplasmin 	1ml Citrate Plasma
+38	 Alpha-2- Macroglobulin 	1 ml Serum
+39	 Amikacin 	1 ml Serum
+40	 Amino Acids, Quantitative 	2 ml EDTA Plasma
+41	 Amino Acids, Quantitative 	30 ml Urine
+42	 Ammonia Blood Level 	EDTA (Whole blood ), Vacutainer, Ice Deliver Immediately
+43	 Amphiphysine Abs 	1 ml serum
+44	 Amylase 	5 ml 24 Hrs Urine or Spot Urine
+45	 Amylase 	1 ml Body Fluid
+46	 Amylase 	1 ml Serum
+47	 ANA (Nuclear Abs) 	1 ml Serum
+48	 Androstenedione 	1 ml Serum
+49	 Angiotensin Converting Enzyme (ACE) 	1 ml Serum
+50	 Anti-Thrombin III 	2 ml Citrate Plasma
+51	 Apolipoprotein A1 	1 ml Serum
+52	 Apolipoprotein B 	1 ml Serum or EDTA or Heparin plasma
+53	 Aquaporine -4 (Neuromyelitis Optica Antibody(NMO)) 	1 ml Serum
+54	 Asialoglycoprotein Receptor Abs 	1 ml Serum
+55	 Aspartate Aminotransferase (AST/GOT) 	1 ml Serum
+56	 Aspergillus fumigatus Abs (IgG & IgM) 	2 ml Serum
+57	 Autoimmune Liver Antigen Profile (SLA, M2, LKM,LC1)	1 ml Serum
+58	 BCR/abl Translocation, FISH 	3 ml EDTA Whole Blood or 2 ml Heparine Tube
+59	 Bence-Jones Protein 	20 ml of 24 Hrs Urine or Spot Urine
+60	 Benzodiazepine, Quantitative 	5 ml Urine
+61	 Benzodiazepine, Quantitative 	1 ml Serum
+62	 Beta- Globin Gene, Beta- Thalassemia (22Mutations) PCR  	7-10 ml Amniotic Fluid
+63	 Beta- Globin Gene, Beta- Thalassemia (22Mutations) PCR   	3 ml EDTA Whole Blood
+64	 Beta- Thalassemia (22 Mutations) Beta- Globin Gene, PCR 	7-10 ml Amniotic Fluid
+65	 Beta- Thalassemia (22 Mutations) Beta- Globin Gene, PCR	3 ml EDTA Whole Blood
+66	 Beta-2- Glycoprotein 1 Abs, IgG 	2 ml Serum
+67	 Beta-2- Glycoprotein 1 Abs, IgM 	2 ml Serum
+68	 Beta-2-Microglobulin(B2M) 	1 ml Serum
+69	 Beta-Carotene (Vitamin A) 	2 ml Serum
+70	 Beta-HCG in urine 	1 ml Urine
+71	 Beta-HCG (Chorionic Gonadotropin, b- Subunit) 	1 ml Serum
+72	 Beta-HCG-free for NT screen 	1 ml Serum
+73	 Bicarbonate, 	Serum Level Heparinized Blood
+74	 Bile Acid 	1 ml Serum
+75	 Bilirubin 	10 ml Urine (Spot Urine)
+76	 Bilirubin, Direct 	1 ml Serum
+77	 Bilirubin, neonatal (TSB) 	1 ml Serum
+78	 Bilirubin, Total 	1 ml Serum
+79	 Bladder Tumour Antigen (NMP22) 	10 ml Urine
+80	 Bleeding Time 	3 ml blood
+81	 Blood Film 	1 ml EDTA Whole Blood
+82	 Blood Group and Rh Typing 	1 ml EDTA Whole Blood
+83	 Blood Urea Nitrogen (BUN) 	1 ml Serum
+84	 Body Fluid Analysis, Cell Count & Chemical 	5 ml Body Fluid
+85	 Borrelia burgdorferi Abs, IgG 	1 ml Serum
+86	 Borrelia burgdorferi Abs, IgM 	1 ml Serum
+87	 BRCA1 & BRCA2 Breast Cancer Genes 	10 ml EDTA Whole Blood
+88	 Brucella Abs, IgG 	1 ml Serum
+89	 Brucella Abs, IgM 	1 ml Serum
+90	 Brucella Abs, Total (Titer) + 2ME 	1 ml Serum
+91	 B-Type Natriuretic Peptide (BNP) 	3 ml Serum
+92	 BUN (Blood Urea Nitrogen) 	1 ml Serum
+93	 C1 Esterase Inhibitor 	1 ml Serum
+94	 C1Q Complement Component 	1 ml Serum OR Heparin plasma
+95 	Cadmium 	5 ml Heparin Blood
+96 	Calcitonin 	1 ml Serum
+97 	Calcium 	5 ml of 24 Hrs Urine or Spot Urine
+98	 Calcium 	1 ml Serum
+99 	Calcium, Ionised 	1 ml Serum
+100 	Calprotectin 	1-2 gr. Faeces
+101	 Cancer Antigen 125 (CA 125) 	1 ml Serum
+102	 Cancer Antigen 15-3 (CA 15-3) 	1 ml Serum
+103	 Cancer Antigen 19-9 (CA 19-9) 	1 ml Serum
+104	 Cancer Antigen 72-4 (CA 72-4) 	1 ml Serum
+105	 Candida Abs (HIT) 	2 ml Serum
+106 	Candida Abs (IgA, IgG, & IgM) 	2 ml Serum
+107	 Carbamazepine (Tegretol 	1 ml Serum
+108	 Carbohydrate Deficient Transferrin (CDT) 	1 ml Serum
+109	 Carcinoembryonic Antigen (CEA) 	1 ml Serum
+110	 Cardiolipin Abs, IgG 	1 ml Serum
+111	 Cardiolipin Abs, IgM 	1 ml Serum
+112	 Cardiovascular Disease (CVD), 12 Mutations Profile,PCR  	3 ml EDTA Whole Blood
+113	 Carnitine, Free 	1 ml Serum
+114	 Carnitine, Total 	1 ml Serum
+115	 Cat Scratch Fever Profile (Bartonella 2-SPP IgG & IgM) 	3 ml Serum
+116	 Catecholamines, Fractionation ( Adrenaline, Noradrenaline & Dopamine) 	2 ml EDTA Plasma
+117	 Catecholamines, Fractionation ( Adrenaline,Noradrenaline & Dopamine ) 	10 ml of 24 Hrs Urine
+118	 Catecholamines, Total 	60 ml of 24 Hrs Urine
+119	 CD Each to be Specified 	2 ml EDTA Whole Blood
+120	 Centromere Abs 	1 ml Serum
+121	 Cerebralspinal Fluid Abs, IgG Index 	3 ml CSF and 1 ml Serum
+122	 Cerebrospinal Fluid Analysis 	2 ml CSF
+123	 Cerebrospinal Fluid Bacterial Latex Test 	2 ml CSF
+124	 Ceruloplasmin 	1 ml Serum
+125	 CH50 (Complement Haemolytic Activity-50) 	2 ml Serum
+126	 Chlamydia trachomatis Abs, IgA 	1 ml Serum
+127	 Chlamydia trachomatis Abs, IgG 	1 ml Serum
+128	 Chlamydia trachomatis Abs, IgM 	1 ml Serum
+129	 Chlamydia trachomatis by RT PCR, Quantitative	 Endocervical Urethral, Urine Sample
+130	 Chloride 	1 ml Serum
+131	 Chloride 	5 ml of 24 Hrs Urine or Spot Urine
+132	 Chloride 	5 ml Body Fluid
+133	 Cholesterol, Total 	1 ml Serum
+134	 Cholinesterase 	3 ml Serum
+135	 Chorionic Gonadotropin, Beta- Subunit 	1 ml Serum
+136	 Chromogranin 	2 ml Serum
+137	 Chromosomal Karyotyping, Amniotic Fluid 	10 ml Amniotic Fluid
+138	 Chromosomal Karyotyping, Chorrionic Villus Sample 	Chorrionic Villus Sample
+139	 Chromosomal Karyotyping, Fragile X Syndrome 	7 ml Heparin Whole Blood
+140	 Chromosomal Karyotyping, Peripheral Blood 	7 ml Heparin Whole Blood
+141	 Chromosomal Karyotyping, Products of Conception 	Abortus
+142	 Citric Acid 	10 ml 24 Hrs Urine
+143	 Citric Acid 	2 ml Serum
+144	 Clostridium difficile Toxin A 	Stool or Proctoscopic Specimen
+145	 Cobalt 	10 ml Urine
+146	 Coenzyme Q10 	1 ml Serum
+147	 Complement 1 (C1) 	1 ml Serum
+148	 Complement 2 (C2) 	1 ml Serum
+149	 Complement 3 (C3) 	1 ml Serum
+150	 Complement 4 (C4) 	1 ml Serum
+151	 Complete Blood Count (CBC with Blood Film) 	2 ml EDTA Whole Blood
+152	 Complete Blood Count (Indicies)(CBC) 	2 ml EDTA Whole Blood
+153	 Coomb’s Test, Direct 	2 ml EDTA Whole Blood
+154	 Coomb’s Test, Indirect 	1 ml Serum
+155	 Copper 	2 ml Serum
+156	 Copper 	30 ml 24 Hrs Urine
+157	 Cortisol Total 	30 ml 24 Hrs Urine Or spot Ur
+158	 Cortisol, Free 	30 ml 24 Hrs Urine
+159	 Cortisol, Total 	1 ml Serum
+160	 Coxiella burnetii Abs, IgG (Q-Fever) 	1 ml Serum
+161	 Coxiella burnetii Abs, IgM (Q-Fever) 	1 ml Serum
+162	 Coxsackie Virus (A7, 9, 16 & 24) Abs, IgG 	2 ml Serum
+163	 Coxsackie Virus (A7, 9, 16 & 24) Abs, IgM 	2 ml Serum
+164	 Coxsackie Virus B1-6 Abs, IgG 	1 ml Serum
+165	 Coxsackie Virus B1-6 Abs, IgM 	1 ml Serum
+166	 C-Peptide 	2 ml Serum
+167	 C-Reactive Protein (High Sensitivity)(CRP) 	1 ml Serum
+168	 Creatine kinase 	1 ml serum
+169	 Creatine Kinase MB(CK-MB) 	1 ml Serum
+170	 Creatine Kinase Isoenzymes 	1 ml Serum
+171	 Creatine Phosphokinase (CPK) 	1 ml Serum
+172	 Creatinine 	5 ml 24 Hrs Urine or Spot Urine
+173	 Creatinine 	1 ml Serum
+174	 Creatinine Clearance 	1 ml Serum & 10 ml 24 Hrs Urine
+175	 Culture For Deep Wound 	-
+176	 Culture For Stool 	1-2 gr stool
+177	 Culture Ordinary (Identification & Sensitivity) 	From Corresponding Site
+178	 Culture Special (TB, Fungal or Special Conditions) 	From Corresponding Site
+179	 Culture, Blood (Identification & Sensitivity) 	Whole Blood in Specialized Bottle
+180	 Cyclic Citrullinated Peptide Abs (CCP-Abs) 	1 ml Serum
+181	 Cyclosporine 	2 ml EDTA Whole Blood
+182	 Cystic Fibrosis (36 Mutations), PCR 	2 ml Amniotic Fluid
+183	 Cystic Fibrosis (36 Mutations), PCR 	2 ml EDTA Whole Blood
+184	 Cystine, Qualitative 	20 ml of 24 Hrs Urine
+185	 Cytology Body Fluid 	From Corresponding Site
+186	 Cytology Fine Needle Aspiration 	From Corresponding Site
+187	 Cytology PAP Smear 	Smear or Swab from site
+188	 Cytology Urine 	For Collection See Appendix-2
+189	 Cytomegalovirus Abs, IgG -(CMV) 	1 ml Serum
+190	 Cytomegalovirus Abs, IgM 	1 ml Serum
+191	 Cytomegalovirus DNA , PCR Quantitative 	3 ml EDTA Plasma
+192	 Cytotoxic Antibodies 	Heparin Whole Blood (Donor) & Serum(Patient)
+193	 D-Dimer 	3 ml Citrate Plasma
+194	 Dehydroepiandrosterone Sulphate (DHEA-S) 	1 ml Serum
+195	 Delta-aminolaevulinic acid 	10 ml 24 Hrs Urine
+196	 Dengue Virus Abs, IgG 	1 ml Serum
+197	 Dengue Virus Abs, IgM 	1 ml Serum
+198	 DHEA-S (Dehydroepiandrosterone Sulphate) 	1 ml Serum
+199	 Diazepam (HPLC) (Valiume) 	1 ml Serum
+200	 Digoxin 	1 ml Serum
+201	 Dihydrotestosterone 	1 ml Serum
+202	 Direct Smear 	As Per Site
+203	 DNA Abs, Double Stranded 	1 ml Serum
+204	 DNA Abs, Single Stranded 	1 ml Serum
+205	 Drug Screen (Multi-drug analysis, 10 Drugs) 	10 ml Urine
+206	 Du Test (Rh Typing) 	1 ml EDTA Whole Blood
+207	 Duchenne and Becker Muscular Dystrophy(DMD/BMD) 	3 ml Amniotic Fluid
+208	 Duchenne and Becker Muscular Dystrophy(DMD/BMD) 	3 ml EDTA Whole Blood
+209	 Echinococcus Abs 	1 ml Serum
+210	 Echovirus Abs, IgG 	1 ml Serum
+211	 Echovirus Abs, IgM 	1 ml Serum
+212	 Electrolytes (Na, K & Cl) 	1 ml Serum
+213	 ENA (Extractable Nuclear Antigens Abs, Full Panel) 	1 ml Serum
+214	 Endomysial Abs, IgA 	1 ml Serum
+215	 Endomysial Abs, IgG 	1 ml Serum
+216	 Entamoeba histolytica (Amoeba) Abs 	1 ml Serum
+217	 Entamoeba histolytica 	Ag Stool
+218	 Epinephrine (Adrenaline) 	10 ml 24 Hrs Urine Collection
+219	 Epstein Barr Virus Capsid Ag (VCA) Abs, IgG 	1 ml Serum
+220	 Epstein Barr Virus Capsid Ag (VCA) Abs, IgM 	1 ml Serum
+221	 Erythrocyte Sedimentation Rate(ESR) 	2ml Sodium citrate
+222	 Erythropoietin 	1 ml Serum
+223	 Estriol, Free 	1 ml Serum
+224	 Ethanol Level 	1 ml Serum
+225	 Extractable Nuclear Antigens Abs (ENA, Full Panel) 	1 ml Serum
+226	 Factor II 	2 ml Citrate Plasma
+227	 Factor II Prothrombin A Mutation, PCR 	5 ml EDTA Whole Blood
+228	 Factor IX 	2 ml Citrate Plasma
+229	 Factor V 	2 ml Citrate Plasma
+230	 Factor VII 	2 ml Citrate Plasma
+231	 Factor VIII:C 	2 ml Citrate Plasma
+232	 Factor X 	1 ml Citrate Plasma
+233	 Factor XI 	2 ml Citrate Plasma
+234	 Factor XII 	2 ml Citrate Plasma
+235	 Factor XIII 	2 ml Citrate Plasma
+236	 FDP (Fibrinogen Degradation Product) 	2 ml Citrate Plasma
+237	 Fecal Occult Blood (FOB) 	1-2 gr stool
+238	 Ferric Chloride Screening Test 	Spot Urine
+239	 Ferritin 	1 ml Serum
+240	 Fibrinogen 	2 ml Citrate Plasma
+241	 Fibrinogen Degradation Product (FDP) 	2 ml Citrate Plasma
+242	 Filaria Abs, IgG 	1 ml Serum
+243	 Filaria Smear 	7 ml EDTA Whole Blood
+244	 First Trimester Screen (Prenatal Interpretive Screen) (PAPPA & Free BHCG) 	1 ml Serum
+245	 FISH: 13 	5 ml EDTA Whole Blood
+246	 FISH: 13 	5 ml Amniotic Fluid
+247	 FISH: 13, 18 	5 ml EDTA Whole Blood
+248	 FISH: 13, 18 	5 ml Amniotic Fluid
+249	 FISH: 13, 18 ,21 	5 ml Amniotic Fluid, 5 ml EDTA Whole Blood, 1ml Heparin Whole Blood, CVS
+250	 FISH: 18 	5 ml EDTA Whole Blood
+251	 FISH: 18 	5 ml Amniotic Fluid
+252	 FISH: 21 	5 ml Amniotic Fluid
+253	 FISH: 21 	5 ml EDTA Whole Blood
+254	 FISH: X, Y 	5 ml EDTA Whole Blood
+255	 FISH: X, Y 	5 ml Amniotic Fluid
+256	 FISH: X, Y, 21 	5 ml EDTA Whole Blood
+257	 FISH: X, Y, 21 	5 ml Amniotic Fluid
+258	 FISH: X, Y, 21, 13, 18 	5 ml EDTA Whole Blood
+259	 FISH: X, Y, 21, 13, 18 	5 ml Amniotic Fluid
+260	 FMF Gene Mutation, PCR 	10 ml EDTA Whole Blood
+261	 Folate 	1 ml Serum
+262	 Folate, Erythrocytes 	2 ml EDTA Whole Blood
+263	 Follicle Stimulating Hormone (FSH) 	1 ml Serum
+264	 Food Intolerance Test IgG (York Test) 	1 ml Serum
+265	 Free Beta-HCG for NT Screen 	1 ml Serum
+266	 Fructosamine 	1 ml Serum
+267	 Fructose 	1 ml Seminal Fluid
+268	 FSH (Follicle Stimulating Hormone) 	1 ml Serum
+269	 G6PD (Glucose-6-Phosphate Dehydrogenase) 	1 ml EDTA Whole Blood
+270	 GAD (Glutamic Acid Decarboxylase Abs) 	1 ml Serum
+271	 Galactose, Neonatal 	Blood Spot
+272	 Gamma Glutamyl Transferase (GGT) 	1 ml Serum
+273	 Ganglioside Abs, IgG 	3 ml Serum
+274	 Gastrin 	1 ml Serum
+275	 GBM (Glomerular Basement Membrane Abs) 	1 ml Serum
+276	 General Microscopy Examination 	Sample dependant
+277	 General Stool Examination 	1 gr of stool
+278	 General Urine Examination 	5 ml Urine
+279	 Gentamicin 	1 ml Serum
+280	 GGT (Gamma Glutamyl Transferase) 	1 ml Serum
+281	 Giardia lamblia Ag 	Stool
+282	 Gliadin Abs, IgA 	1 ml Serum
+283	 Gliadin Abs, IgG 	1 ml Serum
+284	 Globulin 	1 ml Serum
+285	 Glomerular Basement Membrane (GBM) Abs 	1 ml Serum
+286	 Glucose 	1 ml Serum
+287	 Glucose Tolerance Test (GTT), Per Sample 	1 ml Serum at Each Time Point
+288	 Glucose-6-Phosphate Dehydrogenase 	1 ml EDTA Whole Blood
+289	 Glutamic Acid Decarboxylase Abs (GAD) 	1 ml Serum
+290	 Glutamic Dehydrogenase (GLDH) 	2ml Serum
+291	 Glutathione Reductase 	2 ml EDTA Whole Blood
+292	 Gonocococcal Abs (Neisseria Gonorrhea) 	1 ml Serum
+293	 Gonocococcal DNA, RT PCR (Neisseria Gonorrhea) 	Urine or Urtheral, Vaginal Discharge
+294	 GOT ( Aspartate Aminotransferase AST) 	1 ml Serum
+295	 GPT ( Alanine Aminotransferase ALT ) 	1 ml Serum
+296	 Gram Stain 	Smear or Swab from Site
+297	 Growth Hormone 	1 ml Serum
+298	 Haemoglobin (Hb) Total 	2ml EDTA Whole Blood
+299	 Haemoglobin A1c (HbA1c, Glycosylated) 	1 ml EDTA Whole Blood
+300	 Haemoglobin Variants, HPLC & Electrophoresis 	2 ml EDTA Whole Blood
+301	 Haemosiderin 	10 ml Urine (Spot Urine)
+302	 Haptoglobin 	1 ml Serum
+303	 HbA1c, Haemoglobin A1c (Glycosylated) 	1 ml EDTA Whole Blood
+304	 HDL (High Density Lipoprotein) 	1 ml Serum
+305	 Helicobacter pylori Abs, IgA 	1 ml Serum
+306	 Helicobacter pylori Abs, IgG 	1 ml Serum
+307	 Helicobacter Pylori Ags 	Stool
+308	 Hematocrit(HCT),(PCV) 	2ml EDTA Whole Blood
+309	 Hepatitis A Virus Abs, IgM 	1 ml Serum
+310	 Hepatitis A Virus Abs, Total 	1 ml Serum
+311	 Hepatitis B Virus DNA Quantitative, PCR 	1 ml Serum
+312	 Hepatitis Bc Abs, IgM 	1 ml Serum
+313	 Hepatitis Bc Abs, Total 	1 ml Serum
+314	 Hepatitis Be Abs 	1 ml Serum
+315	 Hepatitis Be Ag 	1 ml Serum
+316	 Hepatitis Bs Abs 	1 ml Serum
+317	 Hepatitis Bs Ag 	1 ml Serum
+318	 Hepatitis C Virus Abs 	1 ml Serum
+319	 Hepatitis C Virus Genotyping, RT PCR 	1 ml EDTA Plasma
+320	 Hepatitis C Virus RNA Quantitative, RT PCR 	1 ml Serum
+321	 Hepatitis C Virus Serotyping, Strains 1-6 	1 ml Serum
+322	 Hepatitis Delta Virus, Abs, IgM 	1 ml Serum
+323	 Hepatitis E Virus, Abs, IgM igG 	1 ml Serum
+324	 Hereditary Haemochromatosis Mutation, PCR 	3 ml EDTA Whole Blood
+325	 Herpes Simplex Virus I & II Abs, IgG 	1 ml Serum
+326	 Herpes Simplex Virus I & II Abs, IgM 	1 ml Serum
+327	 Herpes Simplex Virus I & II DNA, PCR 	Genital Swab and/or body fluids
+328	 Herpes Simplex virus I Abs IgG 	1 ml Serum
+329	 Herpes Simplex virus I Abs IgM 	1 ml Serum
+330	 Herpes Simplex Virus II Abs, IgG 	1 ml Serum
+331	 Herpes Simplex Virus II Abs, IgM 	1 ml Serum
+332	 High Density Lipoprotein (HDL) 	1 ml Serum
+333	 Histamine 	5 ml Heparin Blood
+334	 Histamine 	10 ml 24 Hrs Urine
+335	 Histopathology Large 	Biopsy
+336	 Histopathology Medium 	Biopsy
+337	 Histopathology Small 	Biopsy
+338	 HIV by PCR, Quantitative 	2 ml EDTA Plasma
+339	 HIV I & II Abs 	1ml Serum
+340	 HLA- ABC Tissue Typing, PCR 	5 ml EDTA Whole Blood
+341	 HLA ABC-DR RT PCR 	5 ml EDTA Whole Blood
+342	 HLA- B27 RT PCR 	2 ml EDTA Whole Blood
+343	 HLA- B5 RT PCR 	3 ml EDTA Whole Blood
+344	 HLA- DR Tissue Typing, PCR 	5 ml EDTA Whole Blood
+345	 HLA-ABC-DR-DQ 	2 ml EDTA whole blood
+346	 HLA-DQ 	2 ml EDTA Whole Blood
+347	 Homocysteine 	1 ml Serum
+348	 Homogentisic Acid (HGA) 	10 ml of 24 Hrs Urine
+349	 Homovanillic Acid (HVA) 	20 ml 24 hrs Urine
+350	 Human Papillomavirus (HPV) Genotyping, PCR (82 Mutations) 	Vaginal Biobsy, Body Fluid or Smear
+351	 Human T Lymphotropic Virus 1 & 2 Abs (HTLV) 	2 ml Serum
+352	 Hydroxyproline (HPLC) 	10 ml 24 Hrs Urine or Spot Urine
+353	 Hydroxyproline (HPLC) 	2 ml Lithium Heparin Plasma
+354	 IGF-1 (Insulin-like Growth Factor-1) 	1 ml Serum
+355	 IGF-PB3 (Insulin-like Growth Factor -1 Binding Protein 3) 	1 ml Serum
+356	 Immunofixation 	30 ml 24 Hrs Urine
+357	 Immunofixation 	1 ml Serum
+358	 Immunoglobulin A 	1 ml Serum
+359	 Immunoglobulin D 	1 ml Serum
+360	 Immunoglobulin E 	1 ml Serum
+361	 Immunoglobulin G 	1 ml Serum
+362	 Immunoglobulin G Subclass Assay I, II, III, IV 	1 ml Serum
+363	 Immunoglobulin M 	1 ml Serum
+364	 Imuran 	1 ml Serum
+365	 Infectious Mononucleosis (Monospot Test) 	1 ml Serum
+366	 Inhibin A 	1 ml Serum
+367	 Insulin 	1 ml Serum
+368	 Insulin Antibodies 	1 ml Serum
+369	 Insulin Tolerance Test, Per Sample 	1 ml Serum at Each Time Point
+370	 Insulin-like Growth Factor-1 	1 ml Serum
+371	 Insulin-like Growth Factor-1 Binding Protein 3 	1 ml Serum
+372	 Intrinsic Factor Blocking Abs 	1 ml Serum
+373	 Iron 	1 ml Serum
+374	 JAK - 2 Mutation PCR 	EDTA whole blood
+375	 Kappa Light Chain 	24 Hrs Urine
+376	 Kappa Light Chain 	1 ml Serum
+377	 Lactate Blood, Level 	Plasma, Floride, CSF
+378	 Lactate Dehydrogenase (LDH) 	1 ml Serum
+379	 Lactate Dehydrogenase Isoenzymes 	1 ml Serum
+380	 Lactose Tolerace Test 	1 ml Serum at Each Time Point
+381	 Lambda Light Chain 	24 Hrs Urine
+382	 Lambda Light Chain 	1 ml Serum
+383	 Lamictal (Lamatrogine, HPLC) 	1 ml Serum
+384	 LAP (Leukocyte Alkaline Phosphatase Score) 	4 ml Heparin Whole Blood
+385	 LDH (Lactate Dehydrogenase) 	1 ml Serum
+386	 LDH-Isoenzymes 	1 ml Serum
+387	 LE - Phenomenon 	1 ml Serum
+388	 Lead 	10 ml Urine
+389	 Lead 	2 ml EDTA Whole Blood or 4 ml Heparin Whole Blood
+390	 Legionella pneumophilia Abs, IgG 	1 ml Serum
+391	 Legionella pneumophilia Abs, IgM 	1 ml Serum
+392	 Leishmania Abs, IgG 	1ml Serum
+393	 Leishmania smear, Exudate	 Exudate from corresponding site
+394	 Leptospira Abs 	1 ml Serum
+395	 Leukocyte Alkaline Phosphatase Score 	4 ml Heparin Whole Blood
+396	 Lipase 	1 ml Serum
+397	 Lipid-Total in stool 	10 gm of 24 Hrs Stool
+398	 Lipoprotein a 	1 ml Serum
+399	 Lipoprotein Electrophoresis 	1 ml Serum
+400	 Listeria (M.1/2a, MONO.4b) IgG, IgM 	1 ml Serum
+401	 Lithium 	1 ml Serum
+402	 Liver Antigen Profile ( LKM, SLA, M2, LC-1 ) 	1 ml Serum
+403	 Liver Kidney Microsomal-1 Abs, See Liver Antigen Profile 	See Liver Antigen Profile
+404	 LKM-1 Abs, See Liver Antigen Profile 	See Liver Antigen Profile
+405	 Low Density Lipoprotein, Direct (LDL) 	1 ml Serum
+406	 Lupus Anticoagulant, Quantitative 	3 ml Citrate Plasma
+407	 Luteinizing Hormone (LH) 	1 ml Serum
+408	 Lymphocytotoxicity 	Heparin Whole Blood (Donor) & Serum(Patient)
+409	 Magnesium 	1 ml Serum
+410	 Magnesium 	24 Hrs Urine
+411	 Malaria Abs 	1 ml Serum
+412	 Malaria Smear 	2 ml EDTA Whole Blood
+413	 Measles Virus Abs, IgG 	1 ml Serum
+414	 Measles Virus Abs, IgM 	1 ml Serum
+415	 Mercury 	2 ml EDTA Whole Blood
+416	 Mercury 	20 ml Urine
+417	 Metanephrines and Normetanephrine 	2 ml EDTA plasma
+418	 Metanephrines and Normetanephrine 	20 ml 24 hrs Urine
+419	 Metanephrines, Total 	20 ml 24 Hrs Urine
+420	 Methotrexate 	1 ml Serum
+421	 Microalbuminuria 	10 ml of 12 Hrs or 24 Hrs or Spot Urine
+422	 Microalbuminuria-Creatinine Ratio 	10 ml of 24 Hrs Urine
+423	 Mitochondrial Abs (AMA) 	1 ml Serum
+424	 Mitochondrial Abs (M2), See Liver Antigen Profile 	See Liver Antigen Profile
+425	 Monospot Test ( Infectious Mononucleosis ) 	1 ml Serum
+426	 MTHFR C677T Gene Mutation, PCR 	3 ml EDTA Whole Blood
+427	 Mucopolysaccharides Acid Screen 	10 ml Urine (Spot Urine)
+428	 Mullerian Hormone Abs 	2 ml Serum
+429	 Mumps Virus Abs, IgG 	1 ml Serum
+430	 Mumps Virus Abs, IgM 	1 ml Serum
+431	 Muscle Specific Receptor Tyrosine Kinase (Musk) 	2 ml Serum
+432	 Mycobacterium Tuberculosis Ab 	1 ml Serum
+433	 Mycobacterium Tuberculosis DNA, PCR 	Body Fluids or Urine
+434	 Mycobacterium Tuberculosis Quantiferon Gold 	1 ml Whole Blood in Specialized Tube
+435	 Mycoplasma pneumonia Abs, IgG 	1 ml Serum
+436	 Mycoplasma pneumonia Abs, IgM 	1 ml Serum
+437	 Mycoplasma pneumonia, PCR 	Respiratory Specimen or Throat Swab
+438	 Myeloperoxidase Abs 	1 ml Serum
+439	 Myoglobin, Quantitative 	10 ml Urine (Spot Urine)
+440	 Myoglobin, Screen 	10 ml Urine
+441	 N-Acetyl Glucosaminidase And Creatinine 	10 ml Random urine
+442	 Nasal Smear for Eosinophils 	Nasal Fluid
+443	 Natural Killer Cell (CD16 + CD56) 	3 ml EDTA Whole Blood
+444	 Neisseria gonorrhoea Abs (Gonocococcal) 	1 ml Serum
+445	 Neisseria gonorrhoea DNA, RT PCR (Gonocococcal) 	Urine or Urtheral, Vaginal Discharge
+446	 Neonatal Screening Profile (1): TSH, G6PD, 17-OHP,IRT, Galactose, Haemoglobinopathies, Amino Acids,Fatty Acids, Organic Acids (45 Disorders )	 4 Blood Drops on Card
+447	 Neonatal Screening Profile (2): Amino Acids, Fatty Acids, Organic Acids (39 Disorders) 	4 Blood Drops on Card
+448	 Neuronal Nuclear Abs (ANNA, 6 Antigens) , IgG 	1 ml Serum
+449	 Neuron-Specific Enolase (NSE) 	1 ml Serum
+450	 Neutrophil Cytoplasmic Abs (ANCA, C & P) 	1 ml Serum
+451	 Nitroblue Tetrazolium, Neutrophil Function Test 	3 ml EDTA Whole Blood
+452	 NMDA Receptor Abs 	1 mlCSF
+453	 Norepinephrine 	10 ml 24 Hrs Urine Collection
+454	 Nuclear Abs (ANA)	1 ml Serum
+455	 Oligoclonal Banding 	3 ml CSF & 1ml Serum
+456	 Organic Acid Disorder 	5 ml 24 Hrs Urine
+457	 Osmolality 	2 ml Serum
+458	 Osmolality 	5 ml Urine
+459	 Osmotic Fragility Test 	5 ml Heparin Whole Blood
+460	 Osteocalcin N-Mid Fragment 	1 ml Serum
+461	 Oxalate 	5 ml 24 Hrs Urine
+462	 Packed Cell Volume PCV 	3 ml blood
+463	 Pancreatic Langerhans Islet Cell Abs, IgG 	1 ml Serum
+464	 PAPP-A for NTD Screen 	2 ml Serum
+465	 Parathyroid Hormone (PTH) 	1 ml EDTA Plasma
+466	 Parietal Cell Abs (APCA) 	1 ml Serum
+467	 Partial Thromboplastin Time (PTT) 	2 ml Citrate Plasma
+468	 Parvovirus (B-19) Abs, IgG 	1 ml Serum
+469	 Parvovirus (B-19) Abs, IgM 	1 ml Serum
+470	 Parvovirus (B19) DNA 	2ml CSF or 2ml Serum
+471	 Phenobarbital (Luminal) 	1 ml Serum
+472	 Phenylalanine (TLC) (Amino Acids Plasma Screen) 	1 ml EDTA Plasma
+473	 Phenytoin, Total 	1 ml Serum
+474	 Philadelphia Chromosome, FISH 	3 ml EDTA Whole Blood or 2ml Heparine Tube
+475	 Philadelphia Chromosome, PCR 	4 ml EDTA Whole Blood
+476	 Phospholipid Abs, IgG 	1 ml Serum
+477	 Phospholipid Abs, IgM 	1 ml Serum
+478	 Phosphorus 	5 ml of 24 Hrs Urine or Spot Urine
+479	 Phosphorus 	1 ml Serum
+480	 PKU by TLC 	1 ml EDTA Plasma
+481	 Plasminogin Activator Inhibitor 1 	1 ml Citrate Plasma
+482	 Plasminogin Activity 	1 ml Citrate Plasma
+483	 Platelet Count 	2ml EDTA Whole Blood
+484	 Platelets Abs 	1 ml Serum
+485	 Porphyrins, Fractionation (5 Fractions by HPLC) 	10 ml 24 Hrs Urine
+486	 Potassium 	5 ml of 24 Hrs Urine or Spot Urine
+487	 Potassium 	5 ml of Body Fluid
+488	 Potassium 	1 ml Serum
+489	 Pregnancy Associated Plasma Protein-A (PAPP-A) 	2 ml Serum
+490	 Prenatal Interpretive (Down Syndrome) Open NTD & Trisomy 18 (First Trimester Screen)(PAPPA+FBHCG) 	2 ml Serum
+491	 Prenatal Interpretive (Down Syndrome) Open NTD & Trisomy 18 (Triple Screen) (AFP + BHCG + FE3) 	2 ml Serum
+492	 Progesterone 	1 ml Serum
+493	 Prograf or Tacrolimus (FK 506) 	2 ml EDTA Whole Blood
+494	 Pro-Insulin 	2 ml Serum
+495	 Prolactin 	1 ml Serum
+496	 Prostatic-Specific Antigen (PSA), Free 	1 ml Serum
+497	 Prostatic-Specific Antigen (PSA), Total 	1 ml Serum
+498	 Protein C Functional Assay 	1 ml Citrate Plasma
+499	 Protein Electrophoresis 	3 ml CSF
+500	 Protein Electrophoresis 	1 ml Serum
+501	 Protein Electrophoresis 	10 ml Urine
+502	 Protein S Ag Assay, Free 	2 ml Citrate Plasma
+503	 Protein Total 	1 ml Serum
+504	 Protein Total 	3 ml Synovial Fluid
+505	 Protein Total 	5 ml of 24 Hrs Urine or Spot Urine
+506	 Protein Total 	5 ml Body Fluid
+507	 Protein Total 	2 ml CSF
+508	 Proteinase 3 Abs 	1 ml Serum
+509	 Prothrombin G20210A Mutation, PCR 	5 ml EDTA Whole Blood
+510	 Prothrombin Time(PT +INR) 	2 ml Citrate Plasma
+511	 PSA-Free (Prostatic-Specific Antigen, Free) 	1 ml Serum
+512	 PSA-Total (Prostatic-Specific Antigen, Total) 	1 ml Serum
+513	 Pyruvate 	3 ml Whole Blood & 3ml 7% Perchloric Acid
+514	 Pyruvate Kinase 	2 ml EDTA Whole Blood
+515	 Rapid Plasma Reagin (RPR)(Syphilis) 	1 ml Serum
+516	 Reducing substance 	urine or stool
+517	 Renin Activity 	1 ml EDTA Plasma
+518	 Respiratory Syncytial Virus (RSV) Abs, IgG 	1 ml Serum
+519	 Respiratory Syncytial Virus (RSV) Abs, IgM 	1 ml Serum
+520	 Reticulin Abs, IgA 	1 ml Serum
+521	 Reticulin Abs, IgG 	1 ml Serum
+522	 Reticulocyte Count 	1 ml EDTA Whole Blood
+523	 Rheumatiod Factor Abs, IgA Isotype 	1 ml Serum
+524	 Rheumatoid Factor 	1 ml Synovial Fluid
+525	 Rheumatoid Factor (RF) 	1 ml Serum
+526	 Rheumatoid Factor Abs, IgG Isotype 	1 ml Serum
+527	 Rheumatoid Factor Abs, IgM Isotype 	1 ml Serum
+528	 Rikettsia Abs IgG & IgM (Weil-Fleix) 	2 ml Serum
+529	 Rotavirus, Ag 	Stool
+530	 Rubella Abs, IgG 	1 ml Serum
+531	 Rubella Abs, IgM 	1 ml Serum
+532	 Rubeola Virus (Measles) Abs, IgG 	2 ml Serum
+533	 Rubeola Virus (Measles) Abs, IgM 	2 ml Serum
+534	 Saccharomyces Cerevisiae Abs, IgA 	1 ml Serum
+535	 Saccharomyces Cerevisiae Abs, IgG 	1 ml Serum
+536	 Salicylate (Qualitative) 	1 ml Serum
+537	 Salicylate (Quantitative) 	1 ml Serum
+538	 Schistosoma (Bilharzia) in Urine 	5 ml Urine
+539	 Schistosoma (Bilharzia), Abs 	1 ml Serum
+540	 Seminal Fluid Analysis 	Seminal Fluid
+541	 Serotonin 	2 ml EDTA Whole Blood
+542	 Sex Hormone Binding Globulin 	1 ml Serum
+543	 Sickle Cell Gene Mutations, PCR 	10 ml Amniotic Fluid
+544	 Sickle Cell Gene Mutations, PCR 	3 ml EDTA Whole Blood
+545	 Sickling Test 	2 ml EDTA Whole Blood
+546	 Sirolimus (Rapamycin or Rapamune) 	2 ml EDTA Whole Blood
+547	 Skeletal Muscle Abs (Striated Muscle Abs) 	1 ml Serum
+548	 SLA, Soluble Liver Antigen (See Liver Antigen Profile) 	See Liver Antigen Profile
+549	 Smooth Muscle Abs 	1 ml Serum
+550	 Sodium 	1 ml Serum
+551	 Sodium 	5 ml of 24 Hrs Urine or Spot Urine
+552	 Sodium 	Body Fluids
+553	 Soluble Liver Antigen, SLA (See Liver Antigen Profile) 	See Liver Antigen Profile
+554	 Soluble Transferrin Receptor 	2 ml Serum
+555	 Sperm Abs 	1 ml Serum
+556	 Squamous Cell Carcinoma Ag 	1 ml Serum
+557	 Stone Analysis 	Renal Stone
+558	 Streptolysin O Abs(ASO) 	1 ml Serum
+559	 Striated Muscle Abs ( Skeletal Muscle Abs) 	1 ml Serum
+560	 Sudan III in Stool 	Stool
+561	 Synovial Fluid Analysis 	3 ml Synovial Fluid
+562	 T3-Free (Triiodothyronin, Free) 	1 ml Serum
+563	 T4-Free (Thyroxine, Free) 	1 ml Serum
+564	 Tacrolimus (FK 506) or Prograf 	2ml EDTA Whole Blood
+565	 Testosterone, Free 	1 ml Serum
+566	 Testosterone, Total 	1 ml Serum
+567	 Theophylline 	1 ml Serum
+568	 Thrombin Abs 	2 ml Citrate Plasma
+569	 Thrombin Time 	2 ml Citrate Plasma
+570	 Thrombophilia Genetic Panel (APCR, MTHFR & Prothrombin Mutations), PCR 	7 ml EDTA Whole Blood
+571	 Thyroglobulin 	1 ml Serum
+572	 Thyroglobulin Abs 	1 ml Serum
+573	 Thyroid Microsomal Abs 	1 ml Serum
+574	 Thyroid Peroxidase Abs (TPO) 	1 ml Serum
+575	 Thyroid Stimulating Hormone (TSH) 	1 ml Serum
+576	 Thyroid Stimulating Hormone Receptor Abs 	1 ml Serum
+577	 Thyroxine, Free (F-T4) 	1 ml Serum
+578	 Tissue Transglutaminase Ab, IgA 	1 ml Serum
+579	 Tissue Transglutaminase Ab, IgG 	1 ml Serum
+580	 Tobramycin 	1 ml Serum
+581	 TORCH Abs, IgG 	2 ml Serum
+582	 TORCH Abs, IgG & IgM 	2 ml Serum
+583	 TORCH Abs, IgM 	2 ml Serum
+584	 Total Iron Binding Capacity(TIBC) 	1 ml Serum
+585	 Toxocara canis Abs, IgG & IgM 	2 ml Serum
+586	 Toxoplasma gondii Abs, IgG 	1 ml Serum
+587	 Toxoplasma gondii Abs, IgM 	1 ml Serum
+588	 TPHA (Treponema pallidum Hemagglutination)(Syphilis) 	1 ml Serum
+589	 TPO (Thyroid Peroxidase Abs) 	1 ml Serum
+590	 Transferrin 	1 ml Serum
+591	 Treponema pallidum Hemagglutination (TPHA) 	1 ml Serum
+592	 Treponema pallidum Specific Abs, IgG or IgM 	2 ml Serum
+593	 Trichomonas vaginalis, Yeast & Fungi, Wet Mount 	Swab
+594	 Triglycerides 	1 ml Serum
+595	 Triiodothyronin, Free (F-T3) 	1 ml Serum
+596	 Triple Screen, Prenatal Interpretive Screen (AFP + BHCG + FE3) 	1 ml Serum
+597	 Troponin I 	1 ml Serum
+598	 Troponin T 	1 ml Heparin Whole Blood
+599	 Tryptase 	2 ml Serum
+600	 TSH (Thyroid Stimulating Hormone) 	1 ml Serum
+601	 TSH Receptor Abs 	1 ml Serum
+602	 Urea 	1 ml Serum
+603	 Urea 	5 ml of 24 Hrs Urine or Spot Urine
+604	 Ureaplasma urealyticm Abs 	1 ml Serum
+605	 Urethral Discharge (Culture & Sensititvity) 	Swab
+606	 Urethral Discharge (swabbing, gram stain, wet mount) 	Swab
+607	 Uric Acid 	1 ml Serum
+608	 Uric Acid 	5 ml of 24 Hrs Urine or Spot Urine
+609	 Uric Acid 	1 ml Synovial Fluid
+610	 Urinary Albumin Excretion Rate 	5 ml Urine
+611	 Valproic Acid, Total 	1 ml Serum
+612	 Vancomycin 	1 ml Serum
+613	 Vanilmandelic Acid (VMA) 	30 ml 24 Hrs Urine
+614	 Varicella zoster Virus Abs, IgG 	1 ml Serum
+615	 Varicella zoster Virus Abs, IgM 	1 ml Serum
+616	 Vasopressin (Antidiuretic Hormone) 	2 ml EDTA Plasma + 2 ml Serum
+617	 VDRL 	1 ml Serum
+618	 Very Long Chain Fatty Acids (VLCFA) 	2 ml Serum
+619	 Very Low Density Lipoprotein (VLDL) 	1 ml Serum
+620	 Vitamin A ( Retinol ) 	1 ml Serum
+621	 Vitamin B1 ( Thiamine ) 	5 ml EDTA Whole Blood
+622	 Vitamin B12 ( cyanocobalamine ) 	1 ml Serum
+623	 Vitamin B2 (FAD, Riboflavin) 	5 ml EDTA Whole Blood
+624	 Vitamin B6 (Pyridoxal phosphate ) 	3 ml EDTA Plasma
+625	 Vitamin C ( Ascorbic Acid ) 	2 ml Heparin Plasma
+626	 Vitamin D (1,25-Dihydroxycholecalciferol) 	3 ml Serum
+627	 Vitamin D3 (25-Hydroxycholecalciferol) 	1 ml Serum
+628	 Vitamin E ( Alpha Tocopherol ) 	2 ml Serum
+629	 Vitamin K1 	1 ml Serum
+630	 VLDL (Very Low Density Lipoprotein) 	2 ml Serum
+631	 VMA (Vanilmandelic Acid) 	30 ml 24 Hrs Urine
+632	 von Willibrand (Factor VIII Related Ag) 	2 ml Citrate Plasma
+633	 white Blood Cell Count (Leucocyte count ) 	2ml EDTA Whole Blood
+634	 Widal Test (salmonella typhi IgG/IgM) 	2 ml Serum
+635	 Y- Chromosome Microdeletion, PCR 	3 ml EDTA Whole Blood
+636	 Ziehl-Neelsen Stain 	Corresponding Site
+637	 Zinc 	2 ml Serum
+638	 Zinc 	10 ml 24 Hrs Urine
